@@ -4,7 +4,6 @@
 
 I bridge **industrial automation and robotics**: in my Bachelor's thesis I built an automated test environment for PLC software of an industrial X-ray CT system; in my Master's I work with ROS 2 on state estimation, manipulation and robot learning.
 
-🔎 Looking for a **working-student position or Master's thesis in robotics & AI** (Vienna).
 
 ### Skills
 
