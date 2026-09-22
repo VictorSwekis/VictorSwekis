@@ -11,7 +11,7 @@ Looking for a working-student position or Master's thesis in robotics & AI (Vien
 | Area | Tools & topics |
 |---|---|
 | Robotics | ROS 2 (Jazzy, Humble), Gazebo, RViz, MoveIt, state estimation (KF / EKF / Particle Filter), kinematics |
-| Programming | Python, C / C++ (C++17, Eigen) |
+| Programming | Python, C / C++ |
 | Automation & testing | PLC (IEC 61131-3, B&R Automation Studio / PVI), pytest, asyncio, test automation |
 | Tools | Linux (Ubuntu), Docker, Git, SolidWorks, Matlab/Simulink, LaTeX |
 | Machine learning | Reinforcement learning (PPO, Stable-Baselines3), Gymnasium |
