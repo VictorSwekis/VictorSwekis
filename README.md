@@ -4,6 +4,7 @@
 
 I bridge **industrial automation and robotics**: in my Bachelor's thesis I built an automated test environment for PLC software of an industrial X-ray CT system; in my Master's I work with ROS 2 on state estimation, manipulation and robot learning.
 
+Looking for a working-student position or Master's thesis in robotics & AI (Vienna).
 
 ### Skills
 
@@ -21,6 +22,7 @@ I bridge **industrial automation and robotics**: in my Bachelor's thesis I built
 - **[prob_lab_swekis](https://github.com/VictorSwekis/prob_lab_swekis)** – KF, EKF and Particle Filter as ROS 2 nodes for TurtleBot4 localisation, incl. mathematical divergence analysis (C++17, Python, Gazebo).
 - **[ros2-industrial-simulator-final](https://github.com/VictorSwekis/ros2-industrial-simulator-final)** – Team project: SCARA pick-and-place cell with two conveyor belts. My part: robot CAD model in SolidWorks → URDF, full motion planning, grasping and placing parts into the storage box (ROS 2 Humble, MoveIt, Gazebo, RViz, Docker).
 - **[box2d-rl-car-racing](https://github.com/VictorSwekis/box2d-rl-car-racing)** – Team project (Robot Learning lab): PPO agent (Stable-Baselines3) for Gymnasium CarRacing. My part: design of the driving policies via reward shaping and dynamics constraints; evaluation against a geometric racing line (MSE).
+- **[ur10-inverse-kinematics-matlab](https://github.com/VictorSwekis/ur10-inverse-kinematics-matlab)** – Solo project: UR10 pick-and-place in MATLAB/Simulink – URDF import, inverse kinematics, joint-limit check and Yoshikawa manipulability along the trajectory.
 - **[Reachy Mini – Human-Robot Interaction](https://github.com/qeisti/Reachy-Mini-Robotlearning)** (in progress, team project) – The Reachy Mini robot tracks faces, recognises gestures, facial emotions and speech (MediaPipe, Vosk) and responds with head and antenna movements; runs on-device and in MuJoCo simulation. Next step: a learned agent for the interaction.
 - **TurtleBot Mapping & Control** (team project, private repo) – Multi-threaded C++ framework: LiDAR-based 2D mapping with frontier detection, goal-driven pose controller, live visualisation. My part: TCP network communication and parsing of LiDAR/odometry data.
 - **Bachelor's thesis** (not public) – Python-based automated test environment for PLC software of an industrial X-ray CT system (pytest, asyncio, B&R PVI).
