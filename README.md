@@ -1,6 +1,6 @@
 # Victor Swekis
 
-**M.Sc. student Robotics Engineering** @ FH Technikum Wien · **B.Eng. Mechatronics** @ HAW Hamburg
+**M.Sc. student Robotics Engineering** @ FH Technikum Wien · **B.Sc. Mechatronics** @ HAW Hamburg
 
 I bridge **industrial automation and robotics**: in my Bachelor's thesis I built an automated test environment for PLC software of an industrial X-ray CT system; in my Master's I work with ROS 2 on state estimation, manipulation and robot learning.
 
@@ -24,7 +24,7 @@ Looking for a working-student position or Master's thesis in robotics & AI (Vien
 - **[box2d-rl-car-racing](https://github.com/VictorSwekis/box2d-rl-car-racing)** – Team project (Robot Learning lab): PPO agent (Stable-Baselines3) for Gymnasium CarRacing. My part: design of the driving policies via reward shaping and dynamics constraints; evaluation against a geometric racing line (MSE).
 - **[ur10-inverse-kinematics-matlab](https://github.com/VictorSwekis/ur10-inverse-kinematics-matlab)** – Solo project: UR10 pick-and-place in MATLAB/Simulink – URDF import, inverse kinematics, joint-limit check and Yoshikawa manipulability along the trajectory.
 - **[Reachy Mini – Human-Robot Interaction](https://github.com/qeisti/Reachy-Mini-Robotlearning)** (in progress, team project) – The Reachy Mini robot tracks faces, recognises gestures, facial emotions and speech (MediaPipe, Vosk) and responds with head and antenna movements; runs on-device and in MuJoCo simulation. Next step: a learned agent for the interaction.
-- **TurtleBot Mapping & Control** (team project, private repo) – Multi-threaded C++ framework: LiDAR-based 2D mapping with frontier detection, goal-driven pose controller, live visualisation. My part: TCP network communication and parsing of LiDAR/odometry data.
+- **[TurtleBot Mapping & Control](https://github.com/FelixLeonbacher/turtlebot_mapping)** (team project, FH Technikum Wien) – Multi-threaded C++ framework: LiDAR-based 2D mapping with frontier detection, goal-driven pose controller, live visualisation. My part: TCP network communication and parsing of LiDAR/odometry data.
 - **Bachelor's thesis** (not public) – Python-based automated test environment for PLC software of an industrial X-ray CT system (pytest, asyncio, B&R PVI).
 
 ### Contact
